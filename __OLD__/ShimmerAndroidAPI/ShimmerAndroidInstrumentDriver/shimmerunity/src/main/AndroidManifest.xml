@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.empathiccomputing.shimmerunity">
+
+    <application
+        android:allowBackup="true">
+        <activity
+            android:name="com.shimmerresearch.android.guiUtilities.ShimmerBluetoothDialog"
+            android:theme="@android:style/Theme.Dialog">
+        </activity>
+    </application>
+
+</manifest>
